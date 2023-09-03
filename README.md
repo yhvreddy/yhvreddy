@@ -2,6 +2,13 @@
 
 ###
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yhvreddy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yhvreddy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
 <img align="right" height="150" src="https://media.licdn.com/dms/image/C5603AQE6PS2OcTrBgw/profile-displayphoto-shrink_400_400/0/1614609455716?e=1699488000&v=beta&t=Nh7kciRZ7BELIMJC7WeQD_rZmoSNi9uM1yFA_YZAksY"  />
 
 ###
@@ -46,5 +53,11 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="42" height="30" alt="whatsapp logo"  />
   </a>
 </div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/yhvreddy/yhvreddy/output/snake.svg" alt="Snake animation" />
 
 ###
